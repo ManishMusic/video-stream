@@ -38,12 +38,12 @@ async def cbstart(_, query: CallbackQuery):
                              "🌐 Terms & Condition", callback_data="cbinfo")
                        ],[
                           InlineKeyboardButton(
-                             "💬 Group", url="https://t.me/VeezSupportGroup"),
+                             "💬 Group", url="https://t.me/Manish_mod"),
                           InlineKeyboardButton(
-                             "📣 Channel", url="https://t.me/levinachannel")
+                             "📣 Channel", url="https://t.me/Manish_modchat")
                        ],[
                           InlineKeyboardButton(
-                             "👩🏻‍💻 Developer", url="https://t.me/dlwrml")
+                             "👩🏻‍💻 Developer", url="https://t.me/Loltage")
                        ],[
                           InlineKeyboardButton(
                              "📚 All Command List", callback_data="cblist")
@@ -60,11 +60,9 @@ async def cbinfo(_, query: CallbackQuery):
 
 💡 __Powered by PyTgcalls the Async client API for the Telegram Group Calls, and Pyrogram the telegram MTProto API Client Library and Framework in Pure Python for Users and Bots.__
 
-👨🏻‍💻 __Thanks to the developers who participated in the development of this bot, the list of devs can be seen below:__
+👨🏻‍💻 __Thanks Manish To the development of this bot,below:__
 
-👩🏻‍✈️ » [Levina](https://github.com/levina-lab)
-🤵🏻 » [Sammy-XD](https://github.com/Sammy-XD)
-👩🏻‍✈️ » [Achu](https://github.com/Achu2234)
+👩🏻‍✈️ » [Devloper](https://t.me/Loltage)
 
 __This bot licensed under GNU-GPL 3.0 License__""",
     reply_markup=InlineKeyboardMarkup(
