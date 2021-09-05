@@ -100,7 +100,7 @@ async def cblist(_, query: CallbackQuery):
 » /uptime - check bot uptime status
 » /sysinfo - check bot system information
 
-⚡ __Maintained by Veez Project Team__""",
+⚡ __Maintained by Manish_bot x Team__""",
     reply_markup=InlineKeyboardMarkup(
       [[
         InlineKeyboardButton(
